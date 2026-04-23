@@ -110,6 +110,7 @@ const styles = StyleSheet.create({
   row: {
     flexDirection: "row",
     gap: 10,
+    flexWrap: "wrap",
   },
   rowInput: {
     flex: 1,

@@ -33,9 +33,6 @@ Whether you're starting your fitness journey or optimizing an existing routine, 
 ---
 
 ## 🛠️ Tech Stack
-
-> *(Update this section based on your actual implementation)*
-
 - **Frontend:** React Native    
 - **Database:** Async Storage  
 - **Languages:** JavaScript TypeScript  

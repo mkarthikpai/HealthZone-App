@@ -22,7 +22,7 @@ export default function MacroGrid({ meals }: MacroGridProps) {
       <MacroCard
         label="Calories"
         value={`${totals.calories}`}
-        goal="2,000"
+        goal="2000g"
         color="#ff6b6b"
       />
       <MacroCard

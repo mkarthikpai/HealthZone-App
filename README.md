@@ -2,6 +2,7 @@
 
 HealthZone is a modern mobile application designed to help users monitor, manage, and improve their overall health and fitness. Built with a focus on simplicity and usability, it provides a seamless way to track daily activities, set goals, and stay consistent with a healthy lifestyle.
 
+### APK is available at: https://drive.google.com/file/d/1kC69-OmdrwJxEQgzwaMZjWrlD7z85vxr/view?usp=sharing
 ---
 
 ## 🌟 Overview
